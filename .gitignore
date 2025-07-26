@@ -1,0 +1,13 @@
+
+.vscode/
+*.dll
+*.exe
+*.pdb
+Modules/**
+*.nupkg
+*psess
+Thumbs.db
+*.log
+*.tmp
+artifacts/
+build/
